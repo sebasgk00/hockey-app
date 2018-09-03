@@ -1,8 +1,8 @@
 {
   "name": "hockeyapp_front",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Sebastian Coelho",
+  "homepage": "http://SebastianCoelho.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

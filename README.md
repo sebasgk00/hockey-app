@@ -1,2 +1,2 @@
 # hockey-app
-para crear una app
+Descripción del proyecto.
